@@ -15,7 +15,7 @@ class BonecoToyStory:
 
 senhor_potato = BonecoToyStory(
            
-nome='Senhor Potato',
+nome='Sr_Potato',
 dono='Andy',
 frase_de_efeito='Eu sou o Senhor Batata!'
 )
@@ -33,7 +33,7 @@ buzlaitir = BonecoToyStory(
     frase_de_efeito='Ao infinito e além!'
 )
 
-
+print(f'Nome: {woody.nome} | Dono: {woody.dono} | frase {woody.frase_de_efeito}')
 
 
 
